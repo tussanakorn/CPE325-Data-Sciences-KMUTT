@@ -10,7 +10,7 @@
 | Week 2  | Data science concepts                         | No code                              |
 | Week 3  | Tabular data                                  | [Coding 1]                           |
 | Week 4  | Network data                                  | [Coding 1]                           |
-| Week 5  | Textual data                                  |                                      |
+| Week 5  | Textual data                                  |    [01-Intro-R](workshop/01-intro-R.md)                                  |
 | Week 6  | Signal data 1                                 | No code                              |  
 | Week 7  | Signal data 2                                 | No code                              |
 | Week 9  | Data modelling and analytic-based table       |                                      |
