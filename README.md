@@ -7,11 +7,11 @@
 | Week    | Topics                                        | Coding Lab                           |
 | ------- | --------------------------------------------- | ------------------------------------ |
 | Week 1  | Python review (by TA)                         | [Code-Python-review]                 |
-| Week 2  | Data science concepts                         | [Coding 2]                           |
+| Week 2  | Data science concepts                         | No code                              |
 | Week 3  | Tabular data                                  | [Coding 1]                           |
 | Week 4  | Network data                                  | [Coding 1]                           |
-| Week 5  | Textual data                                  | [Coding 1]                           |
-| Week 6  | Signal data 1                                 | [Coding 1]                           |
+| Week 5  | Textual data                                  | No code                              |
+| Week 6  | Signal data 1                                 | No code                              |  |
 | Week 7  | Signal data 2                                 |                                      |
 | Week 9  | Data modelling and analytic-based table       |                                      |
 | Week 10 | Visualization with Power BI                   |                                      |
