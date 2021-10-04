@@ -4,13 +4,13 @@
 
 ## Course Outlines
 
-| Week    | Topics                                        | Coding Lab                            |
-| ------- | --------------------------------------------- | ------------------------------------  |
-| Week 1  | Python review (by TA)                         | [Code-Python-review](01-PythonReview) |
+| Week    | Topics                                        | Coding Lab                           |
+| ------- | --------------------------------------------- | ------------------------------------ |
+| Week 1  | Python review (by TA)                         | [Code-Python-review](01-PythonReview)|
 | Week 2  | Data science concepts                         | No code                              |
-| Week 3  | Tabular data                                  | [Coding 1]                           |
-| Week 4  | Network data                                  | [Coding 1]                           |
-| Week 5  | Textual data                                  |                                     |
+| Week 3  | Tabular data                                  | [Code-Tabular-data](02-TabularData)  |
+| Week 4  | Network data                                  | [Code-Network-data](03-NetworkData)  |
+| Week 5  | Textual data                                  | [Code-Textual-data](04-TextualData)  |
 | Week 6  | Signal data 1                                 | No code                              |  
 | Week 7  | Signal data 2                                 | No code                              |
 | Week 9  | Data modelling and analytic-based table       |                                      |
