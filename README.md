@@ -1,4 +1,5 @@
 # CPE352-Data Sciences (1/64)
+This was part of the lab and homework I learned from CPE352.
 
 ### Instructor : Asst. Prof. Santitham Prom-on, Ph.D.
 
