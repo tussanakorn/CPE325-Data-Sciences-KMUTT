@@ -18,7 +18,7 @@ This was part of the lab and homework I learned from CPE352.
 | Week 10 | Visualization with Power BI                   |                                      |
 | Week 11 | Data analysis expression (DAX)                |                                      |
 | Week 12 | Statistical analysis                          |                                      |
-| Week 13 | Classification (Python)                       |                                      |
+| Week 13 | Classification (Python)                       | [Code-ML-Classification](10-ML-Classification)|
 | Week 14 | Optimization (Excel)                          |                                      |
 | Week 15 | Project                                       |                                      |
 
