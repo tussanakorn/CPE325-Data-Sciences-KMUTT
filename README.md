@@ -7,7 +7,7 @@ This was part of the lab and homework I learned from CPE352.
 
 | Week    | Topics                                        | Coding Lab                           |
 | ------- | --------------------------------------------- | ------------------------------------ |
-| Week 1  | Python review (by TA)                         | [Code-Python-review](01-PythonReview)|
+| Week 1  | Python review (by TA)                         | [Code-Python-review](00-PythonReview)|
 | Week 2  | Data science concepts                         | No code                              |
 | Week 3  | Tabular data                                  | [Code-Tabular-data](02-TabularData)  |
 | Week 4  | Network data                                  | [Code-Network-data](03-NetworkData)  |
