@@ -7,20 +7,18 @@ This was part of the lab and homework I learned from CPE352.
 
 | Week    | Topics                                        | Coding Lab                           |
 | ------- | --------------------------------------------- | ------------------------------------ |
-| Week 1  | Python review (by TA)                         | [Code-Python-review](00-PythonReview)|
-| Week 2  | Data science concepts                         | No code                              |
-| Week 3  | Tabular data                                  | [Code-Tabular-data](02-TabularData)  |
-| Week 4  | Network data                                  | [Code-Network-data](03-NetworkData)  |
-| Week 5  | Textual data                                  | [Code-Textual-data](04-TextualData)  |
-| Week 6  | Signal data 1                                 | No code                              |  
-| Week 7  | Signal data 2                                 | No code                              |
-| Week 9  | Data modelling and analytic-based table       |                                      |
-| Week 10 | Visualization with Power BI                   |                                      |
-| Week 11 | Data analysis expression (DAX)                |                                      |
-| Week 12 | Statistical analysis                          |                                      |
-| Week 13 | Classification (Python)                       | [Code-ML-Classification](10-ML-Classification)|
-| Week 14 | Optimization (Excel)                          |                                      |
-| Week 15 | Project                                       |                                      |
+| Week 0  | Python review (by TA)                         | [Code-Python-review](00-PythonReview)|
+| Week 1  | Data science concepts                         | No code                              |
+| Week 2  | Tabular data                                  | [Code-Tabular-data](02-TabularData)  |
+| Week 3  | Network data                                  | [Code-Network-data](03-NetworkData)  |
+| Week 4  | Textual data                                  | [Code-Textual-data](04-TextualData)  |
+| Week 5  | Signal data 1                                 | No code                              |  
+| Week 6  | Signal data 2                                 | No code                              |
+| Week 7  | Image data                                    | [Code-Image-data](07-ImageData)    |
+| Week 8  | Visualization with Power BI                   | No code                              |
+| Week 9  | Data analysis expression (DAX)                | [Code-DAX](09-PowerBI)               |
+| Week 10 | Classification (Python)                       | [Code-ML-Classification](10-ML-Classification)|
+| Week 11 | Project                                       |                                      |
 
 Get Slide [Here](https://drive.google.com/drive/folders/12QfughJPggelb3e49v1uFkONT033NGFI?usp=sharing)
 
