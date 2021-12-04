@@ -18,7 +18,7 @@ This was part of the lab and homework I learned from CPE352.
 | Week 8  | Visualization with Power BI                   | No code                              |
 | Week 9  | Data analysis expression (DAX)                | [Code-DAX](09-PowerBI)               |
 | Week 10 | Classification (Python)                       | [Code-ML-Classification](10-ML-Classification)|
-| Week 11 | Project                                       |                                      |
+| Week 11 | Project                                       | [Code-Geospatial-analysis](https://github.com/tussanakorn/Geospatial-analysis)|
 
 Get Slide [Here](https://drive.google.com/drive/folders/12QfughJPggelb3e49v1uFkONT033NGFI?usp=sharing)
 
